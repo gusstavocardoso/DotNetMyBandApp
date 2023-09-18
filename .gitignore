@@ -1,0 +1,7 @@
+MyBandApp/bin
+MyBandApp/obj
+MyBandApp.Tests/bin
+MyBandApp.Tests/obj
+MyBandApp.sln.DotSettings.user
+TestResults
+.idea

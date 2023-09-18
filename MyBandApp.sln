@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBandApp", "MyBandApp\MyBandApp.csproj", "{DA408145-B920-413C-A456-A2166ED2EFB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBandApp.Tests", "MyBandApp.Tests\MyBandApp.Tests.csproj", "{52AAED8B-CC56-46A3-AB0F-2E3D877EFF93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA408145-B920-413C-A456-A2166ED2EFB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA408145-B920-413C-A456-A2166ED2EFB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA408145-B920-413C-A456-A2166ED2EFB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA408145-B920-413C-A456-A2166ED2EFB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52AAED8B-CC56-46A3-AB0F-2E3D877EFF93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52AAED8B-CC56-46A3-AB0F-2E3D877EFF93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52AAED8B-CC56-46A3-AB0F-2E3D877EFF93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52AAED8B-CC56-46A3-AB0F-2E3D877EFF93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
